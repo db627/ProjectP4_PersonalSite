@@ -1,0 +1,178 @@
+
+*{
+    font-family:'Trebuchet MS';
+}
+header{
+    color: white;
+}
+nav{
+    background-color: #d9d5d0;
+}
+nav a[href]{
+    color: black;
+}
+body a[href]{
+    color: black;
+}
+body a[href]:hover{
+    color: rgb(176, 176, 176);
+}
+body a[href]:focus{
+    color: rgb(176, 176, 176);
+}
+#top-name{
+    background-color: #3c2e33;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    height: 30rem;
+    margin-bottom: 30px;
+} 
+#top-name img{
+    float: right;
+}
+
+.section{
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    padding-top: 20px;
+    padding-right: 500px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    width: auto;
+}
+#hi{
+    padding-right: 50px;
+}
+.section img{
+    height: 50%;
+    padding-left: 100px;
+    padding-right: auto;
+}
+.section h3{
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    color: white;
+}
+.section h1{
+    margin: 0;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+section p{
+    color: white;
+}
+.welcome{
+    background-color: #3c2e33;
+    margin: 0 auto;
+    padding: auto;
+    text-align: center;
+}
+body{
+    background-color: #FAF9F6;
+}
+.container2{
+    color: black;
+    font-size: 18px;
+    padding-left: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+    border-radius: 2ppx;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    align-items: right;
+  }
+  
+  .skills {
+    text-align: right; /* Right-align text */
+    padding-top: 0px; /* Add top padding */
+    padding-bottom: 0px; /* Add bottom padding */
+    color: white; /* White text color */
+  }
+  
+  /*.ht {width: 80%; background-color: #04AA6D;}  Green */
+  .ht {
+    width:70%; 
+    background-color: orange;
+    border-radius: 20px; 
+    padding:6px;
+    font-weight: bold; 
+    color: #34282C;
+}
+  .css {
+    width: 70%;
+    background-color: lightcoral; border-radius: 20px;
+    padding:6px;
+    font-weight: bold;
+    color: #34282C;
+}
+  .python {
+    width: 65%; 
+    background-color: coral; 
+    border-radius: 20px; 
+    padding:6px; 
+    font-weight: bold; 
+    color: #34282C;
+} 
+  .project {
+    width: 60%; 
+    background-color: green; 
+    border-radius: 20px; 
+    padding:6px; 
+    font-weight: 
+    bold; color: #34282C;
+}
+  .russian {
+    width: 90%; 
+    background-color: lightgoldenrodyellow; border-radius: 20px; 
+    padding:6px; 
+    font-weight: bold; 
+    color: #34282C;
+}
+  .javascript {
+    width: 30%;
+    background-color: orange;
+    border-radius: 20px;
+    padding: 6px;
+    font-weight: bold;
+    color: #34282C;
+  }
+  #percentage{
+    text-align: right;
+    padding-right: 200px;
+  } 
+  br{
+    position: left;
+  }
+  #footerbox{
+    padding-top: 100px;
+    padding-bottom: 50vmax;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+#footerbox a{
+    color: white;
+    margin-top: 10px;
+}
+body{
+    background-image: linear-gradient(#d9d5d0, rgb(58, 58, 58));
+}
+#edu{
+    padding-bottom: 80px;
+}
