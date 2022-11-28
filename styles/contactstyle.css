@@ -1,5 +1,6 @@
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 nav{
     background-color:#d9d5d0;
@@ -8,7 +9,9 @@ nav{
 main{
     background-image: linear-gradient(#d9d5d0, black);
 }
-
+body{
+    background-image: linear-gradient(#e8e3dc, black);
+}
 .formfields{
     text-align: center;
 }
@@ -35,7 +38,7 @@ main{
 }
 #footerbox{
     padding-top: 100px;
-    padding-bottom: 50vmax;
+    padding-bottom: 20px;
     background-color: black;
     color: white;
     text-align: center;
@@ -44,4 +47,18 @@ main{
 #footerbox a{
     color: white;
     margin-top: 10px;
+}
+.containerbox{
+    background-color: rgb(158, 158, 158);
+    padding: 20px;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+form p{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
 }
