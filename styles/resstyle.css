@@ -21,7 +21,7 @@ body a[href]:focus{
     color: rgb(176, 176, 176);
 }
 #top-name{
-    background-color: #3c2e33;
+    background-color: black;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
